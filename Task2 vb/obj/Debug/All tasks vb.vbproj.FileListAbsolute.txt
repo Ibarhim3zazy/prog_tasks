@@ -1,0 +1,27 @@
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\bin\Debug\Task2 vb.exe.config
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\bin\Debug\Task2 vb.exe
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\bin\Debug\Task2 vb.pdb
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\bin\Debug\Task2 vb.xml
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\bin\Debug\Interop.WMPLib.dll
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\bin\Debug\AxInterop.WMPLib.dll
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Interop.WMPLib.dll
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\AxInterop.WMPLib.dll
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\All tasks vb.vbproj.ResolveComReference.cache
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.AboutBox1.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task1.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task10.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task11.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task2.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Main.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Resources.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.task3.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task4.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task5.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task6.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task7.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task8.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2_vb.Task9.resources
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\All tasks vb.vbproj.GenerateResource.Cache
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2 vb.exe
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2 vb.xml
+F:\forth grade\4.1 برامج جاهزة\Tasks\All tasks\All tasks vb\Task2 vb\obj\Debug\Task2 vb.pdb

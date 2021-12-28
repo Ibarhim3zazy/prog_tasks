@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Task2vb
+</name>
+</assembly>
+<members>
+<member name="P:Task2_vb.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Task2_vb.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Task2_vb.My.Resources.Resources._1140_yeager_sell_your_used_books_imgcache_rev661df3f628ce819a8306ca96aa6bc36f_web_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Task2_vb.My.Resources.Resources._330_3302186_open_book_clipart_png_download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Task2_vb.My.Resources.Resources.Avatar_SpTH_robot_transparent_en">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Task2_vb.My.Resources.Resources.bibliothe__que_tv_437979410">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Task2_vb.My.Resources.Resources.clickHearIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Task2_vb.My.Resources.Resources.transparent_cancel_icon_audio_and_video_controls_icon_close_ic_60b5700062eab9_9617152116225034244052">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Task2_vb.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
